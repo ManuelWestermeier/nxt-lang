@@ -1,0 +1,2 @@
+//From Other FILE
+printf CALL "FROM OTHER FILE\n" CALLEND STOP
